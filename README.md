@@ -75,7 +75,7 @@ This project is part of my transition into the data analytics field. I'm current
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/vaibhav-vaibhav/))
+- [LinkedIn]([https://www.linkedin.com])(https://www.linkedin.com/in/vaibhav-vaibhav/)
 
 ---
 
